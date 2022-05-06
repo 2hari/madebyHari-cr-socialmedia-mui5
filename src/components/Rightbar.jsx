@@ -51,7 +51,7 @@ const Rightbar = () => {
             src="https://material-ui.com/static/images/avatar/7.jpg"
           />
           <Avatar
-            alt="Trevor Henderson"
+            alt="Trevot Henderson"
             src="https://material-ui.com/static/images/avatar/8.jpg"
           />
         </AvatarGroup>
